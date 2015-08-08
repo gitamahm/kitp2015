@@ -1,0 +1,14 @@
+	Number of Records	Mean Length	Median Length	Standard Deviation	Maximum Length
+Canine parvovirus	1451	385	338	206	751
+Cyanophage	4996	239	181	375	8573
+Ebola	90	603	364	565	2212
+Enterobacteria phage p2	168	203	142	162	815
+Haloarcula hispanica virus 1	4042	284	244	200	1777
+Herpes simplex virus 1	4750	439	320	427	3164
+Murine hepatitis virus	188	987	292	1649	7180
+Plant viruses	12251	536	195	909	7391
+Simian immunodeficiency virus	40983	293	140	305	1472
+Streptococcus Phage	3769	228	140	250	2417
+Sulfolobus spindle shaped virus	213	201	134	235	2308
+Tobacco mosaic virus	435	506	308	569	3079
+Tomato mosaic virus	124	540	264	665	3075

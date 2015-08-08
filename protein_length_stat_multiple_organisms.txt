@@ -1,0 +1,19 @@
+	Number of Records	Mean Length	Median Length	Standard Deviation	Maximum Length
+Arabidopsis thaliana	52178	384	318	304	5393
+C elegans	26661	446	337	504	18562
+Cyanobacteria	5574	302	259	220	2505
+Cyanophage	5068	237	181	372	8573
+Drosophila	13067	510	397	474	18141
+Ecoli	9999	299	260	215	3223
+Gorilla	28731	522	384	548	35180
+Haloarcula	45130	284	243	199	5551
+Mouse	146101	388	299	411	35213
+Mushroom	23201	412	338	325	4900
+P2 phage	674	201	132	200	2201
+Paramecium	53601	402	297	407	7119
+Penicillium chrysogenum	104	637	478	562	3791
+Staphylococcus aureus	78626	306	260	298	10922
+Streptococcus phage	3347	217	131	252	2417
+Thermoproteus neutrophilus	1965	269	232	181	2676
+Tobacco	6212	316	260	247	3305
+Yeast	28731	522	384	548	35180
